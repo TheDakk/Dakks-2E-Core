@@ -1,25 +1,5 @@
 # Changelog
 
-## 0.1.5 (2026-09-07)
+## 1.0.0 (2026-09-07)
 
-Compendium banners are now the painted set shared with the token module (requires Dakk's Ultimate Tokens 2.3.3 or later to show them), and the module carries a cover and icon for Foundry's setup and install screens. No rules or data changes.
-
-## 0.1.4 (2026-09-07)
-
-Every pack now opens to groups, as the D&D 5e system's packs do: Creatures by type (Beasts, Dragons, Giants, Humanoids, Undead, Fiends and the rest), Wizard and Priest Spells by level, Equipment, Weapons and Armor by kind, Weapon Proficiencies by proficiency, specialization and group, Tables by book section. Each pack also carries a banner painted from Dakk's Ultimate Tokens, so the sidebar shows art the way it does for the 5e packs. No rules or data changes.
-
-## 0.1.3 (2026-09-07)
-
-Compendium sidebar: under "Dakk's Ultimate Tokens" > "D&D 2e", Creatures sits at the top and the rest are grouped in four folders: Classes & Races; Skills & Proficiencies; Spells (Wizard, Priest); Items (Equipment, Weapons, Armor, Tables, Documentation). The same tree holds Dakk's D&D 5e Core when it is installed. No data changes.
-
-## 0.1.2 (2026-09-07)
-
-Compendium sidebar: the thirteen packs now sit in "Dakk's Ultimate Tokens" > "D&D 2e", grouped as Characters, Spells, Items, Creatures and Rules, the same tree the token module and Dakk's D&D 5e Core use. The old flat "AD&D 2e Core" folder is gone. No data changes.
-
-## 0.1.1 (2026-09-07)
-
-The in-world documentation journal is now titled "Dakk's D&D 2e Core — Documentation" (it still said "AD&D 2e Core"). Creature images come from Dakk's Ultimate Tokens 2.3.0, which redrew 68 creatures to the Monster Manual (2014) depictions; the module references those files by path, so updating the token module is enough to see them. No rules or data changes.
-
-## 0.1.0 (2026-09-07)
-
-First release. D&D 2nd Edition core rules for the Advanced Roleplaying System (ARS): classes, races, proficiencies, spells, creatures, equipment, treasure and tables, converted from For Gold & Glory (Open Game Content under the OGL v1.0a; see LICENSE.md), every image drawn from Dakk's Ultimate Tokens. Requires Foundry 14, ARS 2026.08.25 or later and the Dakk's Ultimate Tokens module 2.0.0 or later, which Foundry offers to install alongside; set the ARS variant to 2 in the world. For Gold & Glory and FG&G are trademarks of Justen Brown; this work is not affiliated with Justen Brown.
+First release. D&D 2nd Edition core rules for the Advanced Roleplaying System (ARS): classes, races, proficiencies, spells, creatures, equipment, treasure and tables, converted from For Gold & Glory (Open Game Content under the OGL v1.0a; see LICENSE.md), every image drawn from Dakk's Ultimate Tokens. Requires Foundry 14, ARS 2026.08.25 or later and the Dakk's Ultimate Tokens module 2.0.0 or later, which Foundry offers to install alongside; set the ARS variant to 2 in the world. For Gold & Glory and FG&G are trademarks of Justen Brown; this work is not affiliated with Justen Brown. Compendium: every pack sits under "Dakk's Ultimate Tokens" > "D&D 2e" in the sidebar (Creatures at the top, then Classes & Races, Skills & Proficiencies, Spells, Items), each pack opens to groups (creatures by type, spells by level, gear, weapons and armour by kind, tables by book section) and carries a banner painted in Dakk's hand, shared with the token module (2.3.3 or later). The module also carries a cover and icon for Foundry's setup and install screens. Version numbering begins at 1.0.0; the same-day 0.1.x builds were pre-release iterations of this release.

@@ -194,21 +194,54 @@
           "sorting": "m",
           "color": "#3b5b8a",
           "packs": [
-            "creatures",
-            "classes",
-            "races",
-            "skills",
-            "proficiencies-weapon",
-            "proficiencies-nonweapon",
-            "spells-arcane",
-            "spells-divine",
-            "equipment",
-            "weapons",
-            "armor",
-            "tables",
-            "documentation"
+            "creatures"
           ],
-          "folders": []
+          "folders": [
+            {
+              "name": "Classes & Races",
+              "sorting": "m",
+              "color": "#3b5b8a",
+              "packs": [
+                "classes",
+                "races"
+              ],
+              "folders": []
+            },
+            {
+              "name": "Skills & Proficiencies",
+              "sorting": "m",
+              "color": "#3b5b8a",
+              "packs": [
+                "skills",
+                "proficiencies-weapon",
+                "proficiencies-nonweapon"
+              ],
+              "folders": []
+            },
+            {
+              "name": "Spells",
+              "sorting": "m",
+              "color": "#3b5b8a",
+              "packs": [
+                "spells-arcane",
+                "spells-divine"
+              ],
+              "folders": []
+            },
+            {
+              "name": "Items",
+              "sorting": "m",
+              "color": "#3b5b8a",
+              "packs": [
+                "equipment",
+                "weapons",
+                "armor",
+                "tables",
+                "documentation"
+              ],
+              "folders": []
+            }
+          ]
         }
       ]
     }

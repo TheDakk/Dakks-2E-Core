@@ -2,7 +2,7 @@
 
 ## 0.1.3 (2026-09-07)
 
-Compendium sidebar: the thirteen packs sit under "Dakk's Ultimate Tokens" > "D&D 2e" with no further folders, ordered Creatures, Classes, Races, Skills, the two proficiency lists, Wizard Spells, Priest Spells, Equipment, Weapons, Armor, Tables, Documentation. The same tree holds Dakk's D&D 5e Core when it is installed. No data changes.
+Compendium sidebar: under "Dakk's Ultimate Tokens" > "D&D 2e", Creatures sits at the top and the rest are grouped in four folders: Classes & Races; Skills & Proficiencies; Spells (Wizard, Priest); Items (Equipment, Weapons, Armor, Tables, Documentation). The same tree holds Dakk's D&D 5e Core when it is installed. No data changes.
 
 ## 0.1.2 (2026-09-07)
 

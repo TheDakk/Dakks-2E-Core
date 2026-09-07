@@ -2,7 +2,7 @@
   "id": "dakks-2e",
   "title": "Dakk's D&D 2e Core",
   "description": "<p>A setting-agnostic D&D 2nd Edition ruleset content module for the Advanced Roleplaying System (ARS). Classes, races, proficiencies, spells, equipment, and creatures.</p><p>Rules content derived from <em>For Gold &amp; Glory</em> by Justen Brown, used under the Open Game License v1.0a. See LICENSE.md for the full license text and Section 15 attribution.</p><p>For Gold &amp; Glory&trade; and FG&amp;G&trade; are trademarks of Justen Brown. This work is not affiliated with Justen Brown.</p><p>Private module. Not distributed via the Foundry package registry.</p>",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "authors": [
     {
       "name": "Nick",
@@ -209,20 +209,12 @@
               "folders": []
             },
             {
-              "name": "Spells",
+              "name": "Items & Spells",
               "sorting": "m",
               "color": "#3b5b8a",
               "packs": [
                 "spells-arcane",
-                "spells-divine"
-              ],
-              "folders": []
-            },
-            {
-              "name": "Items",
-              "sorting": "m",
-              "color": "#3b5b8a",
-              "packs": [
+                "spells-divine",
                 "equipment",
                 "weapons",
                 "armor"
@@ -256,5 +248,5 @@
   "url": "https://github.com/TheDakk/Dakks-2E-Core",
   "license": "LICENSE.md",
   "manifest": "https://github.com/TheDakk/Dakks-2E-Core/releases/latest/download/module.json",
-  "download": "https://github.com/TheDakk/Dakks-2E-Core/releases/download/v0.1.2/dakks-2e-0.1.2.zip"
+  "download": "https://github.com/TheDakk/Dakks-2E-Core/releases/download/v0.1.3/dakks-2e-0.1.3.zip"
 }

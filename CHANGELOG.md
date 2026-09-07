@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.4 (2026-09-07)
+
+Every pack now opens to groups, as the D&D 5e system's packs do: Creatures by type (Beasts, Dragons, Giants, Humanoids, Undead, Fiends and the rest), Wizard and Priest Spells by level, Equipment, Weapons and Armor by kind, Weapon Proficiencies by proficiency, specialization and group, Tables by book section. Each pack also carries a banner painted from Dakk's Ultimate Tokens, so the sidebar shows art the way it does for the 5e packs. No rules or data changes.
+
 ## 0.1.3 (2026-09-07)
 
 Compendium sidebar: under "Dakk's Ultimate Tokens" > "D&D 2e", Creatures sits at the top and the rest are grouped in four folders: Classes & Races; Skills & Proficiencies; Spells (Wizard, Priest); Items (Equipment, Weapons, Armor, Tables, Documentation). The same tree holds Dakk's D&D 5e Core when it is installed. No data changes.

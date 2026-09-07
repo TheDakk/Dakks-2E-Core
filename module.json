@@ -1,0 +1,211 @@
+{
+  "id": "dakks-2e",
+  "title": "Dakk's D&D 2e Core",
+  "description": "<p>A setting-agnostic D&D 2nd Edition ruleset content module for the Advanced Roleplaying System (ARS). Classes, races, proficiencies, spells, equipment, and creatures.</p><p>Rules content derived from <em>For Gold &amp; Glory</em> by Justen Brown, used under the Open Game License v1.0a. See LICENSE.md for the full license text and Section 15 attribution.</p><p>For Gold &amp; Glory&trade; and FG&amp;G&trade; are trademarks of Justen Brown. This work is not affiliated with Justen Brown.</p><p>Private module. Not distributed via the Foundry package registry.</p>",
+  "version": "0.1.0",
+  "authors": [
+    {
+      "name": "Nick",
+      "email": "nick@nicholaspatel.com"
+    }
+  ],
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "ars",
+        "type": "system",
+        "compatibility": {
+          "minimum": "2026.08.25",
+          "verified": "2026.08.25"
+        },
+        "reason": "Content is authored against the ARS data models (class ranks, item schema, psionics)."
+      }
+    ],
+    "requires": [
+      {
+        "id": "dakks-ultimate-tokens",
+        "type": "module",
+        "manifest": "https://github.com/TheDakk/Dakks-Ultimate-Tokens/releases/latest/download/module.json",
+        "compatibility": {
+          "minimum": "2.0.0"
+        },
+        "reason": "Every actor, item and spell image in these compendia points at Dakk's Ultimate Tokens."
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "classes",
+      "label": "Classes",
+      "system": "ars",
+      "path": "packs/classes",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "skills",
+      "label": "Skills",
+      "system": "ars",
+      "path": "packs/skills",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "races",
+      "label": "Races",
+      "system": "ars",
+      "path": "packs/races",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "proficiencies-weapon",
+      "label": "Weapon Proficiencies",
+      "system": "ars",
+      "path": "packs/proficiencies-weapon",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "proficiencies-nonweapon",
+      "label": "Nonweapon Proficiencies",
+      "system": "ars",
+      "path": "packs/proficiencies-nonweapon",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "spells-arcane",
+      "label": "Wizard Spells",
+      "system": "ars",
+      "path": "packs/spells-arcane",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "spells-divine",
+      "label": "Priest Spells",
+      "system": "ars",
+      "path": "packs/spells-divine",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "equipment",
+      "label": "Equipment",
+      "system": "ars",
+      "path": "packs/equipment",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "weapons",
+      "label": "Weapons",
+      "system": "ars",
+      "path": "packs/weapons",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "armor",
+      "label": "Armor",
+      "system": "ars",
+      "path": "packs/armor",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "creatures",
+      "label": "Creatures",
+      "system": "ars",
+      "path": "packs/creatures",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tables",
+      "label": "Tables",
+      "system": "ars",
+      "path": "packs/tables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "documentation",
+      "label": "Documentation",
+      "system": "ars",
+      "path": "packs/documentation",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "AD&D 2e Core",
+      "sorting": "m",
+      "color": "#7a5230",
+      "packs": [
+        "classes",
+        "skills",
+        "races",
+        "proficiencies-weapon",
+        "proficiencies-nonweapon",
+        "spells-arcane",
+        "spells-divine",
+        "equipment",
+        "weapons",
+        "armor",
+        "creatures",
+        "tables",
+        "documentation"
+      ]
+    }
+  ],
+  "url": "https://github.com/TheDakk/Dakks-2E-Core",
+  "license": "LICENSE.md",
+  "manifest": "https://github.com/TheDakk/Dakks-2E-Core/releases/latest/download/module.json",
+  "download": "https://github.com/TheDakk/Dakks-2E-Core/releases/download/v0.1.0/dakks-2e-0.1.0.zip"
+}

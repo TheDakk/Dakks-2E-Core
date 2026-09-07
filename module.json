@@ -2,7 +2,7 @@
   "id": "dakks-2e",
   "title": "Dakk's D&D 2e Core",
   "description": "<p>A setting-agnostic D&D 2nd Edition ruleset content module for the Advanced Roleplaying System (ARS). Classes, races, proficiencies, spells, equipment, and creatures.</p><p>Rules content derived from <em>For Gold &amp; Glory</em> by Justen Brown, used under the Open Game License v1.0a. See LICENSE.md for the full license text and Section 15 attribution.</p><p>For Gold &amp; Glory&trade; and FG&amp;G&trade; are trademarks of Justen Brown. This work is not affiliated with Justen Brown.</p><p>Private module. Not distributed via the Foundry package registry.</p>",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "authors": [
     {
       "name": "Nick",
@@ -184,28 +184,77 @@
   ],
   "packFolders": [
     {
-      "name": "AD&D 2e Core",
+      "name": "Dakk's Ultimate Tokens",
       "sorting": "m",
       "color": "#7a5230",
-      "packs": [
-        "classes",
-        "skills",
-        "races",
-        "proficiencies-weapon",
-        "proficiencies-nonweapon",
-        "spells-arcane",
-        "spells-divine",
-        "equipment",
-        "weapons",
-        "armor",
-        "creatures",
-        "tables",
-        "documentation"
+      "packs": [],
+      "folders": [
+        {
+          "name": "D&D 2e",
+          "sorting": "m",
+          "color": "#3b5b8a",
+          "packs": [],
+          "folders": [
+            {
+              "name": "Characters",
+              "sorting": "m",
+              "color": "#3b5b8a",
+              "packs": [
+                "classes",
+                "races",
+                "skills",
+                "proficiencies-weapon",
+                "proficiencies-nonweapon"
+              ],
+              "folders": []
+            },
+            {
+              "name": "Spells",
+              "sorting": "m",
+              "color": "#3b5b8a",
+              "packs": [
+                "spells-arcane",
+                "spells-divine"
+              ],
+              "folders": []
+            },
+            {
+              "name": "Items",
+              "sorting": "m",
+              "color": "#3b5b8a",
+              "packs": [
+                "equipment",
+                "weapons",
+                "armor"
+              ],
+              "folders": []
+            },
+            {
+              "name": "Creatures",
+              "sorting": "m",
+              "color": "#3b5b8a",
+              "packs": [
+                "creatures"
+              ],
+              "folders": []
+            },
+            {
+              "name": "Rules",
+              "sorting": "m",
+              "color": "#3b5b8a",
+              "packs": [
+                "tables",
+                "documentation"
+              ],
+              "folders": []
+            }
+          ]
+        }
       ]
     }
   ],
   "url": "https://github.com/TheDakk/Dakks-2E-Core",
   "license": "LICENSE.md",
   "manifest": "https://github.com/TheDakk/Dakks-2E-Core/releases/latest/download/module.json",
-  "download": "https://github.com/TheDakk/Dakks-2E-Core/releases/download/v0.1.1/dakks-2e-0.1.1.zip"
+  "download": "https://github.com/TheDakk/Dakks-2E-Core/releases/download/v0.1.2/dakks-2e-0.1.2.zip"
 }

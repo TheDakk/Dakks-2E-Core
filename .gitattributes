@@ -1,0 +1,2 @@
+# LevelDB compendium files must never have line endings rewritten
+packs/** -text

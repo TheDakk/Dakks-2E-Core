@@ -1,5 +1,7 @@
 # Dakk's D&D 2e Core (for the Advanced Roleplaying System)
 
+![Dakk's Ultimate Tokens](https://raw.githubusercontent.com/TheDakk/Dakks-Ultimate-Tokens/main/art/cover.webp)
+
 A setting-agnostic D&D 2nd Edition ruleset content module for Foundry VTT's Advanced
 Roleplaying System (ARS): classes, races, proficiencies, spells, creatures, equipment,
 treasure and tables, converted from **For Gold & Glory**, the Open Game Content

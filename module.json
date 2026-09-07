@@ -2,7 +2,7 @@
   "id": "dakks-2e",
   "title": "Dakk's D&D 2e Core",
   "description": "<p>A setting-agnostic D&D 2nd Edition ruleset content module for the Advanced Roleplaying System (ARS). Classes, races, proficiencies, spells, equipment, and creatures.</p><p>Rules content derived from <em>For Gold &amp; Glory</em> by Justen Brown, used under the Open Game License v1.0a. See LICENSE.md for the full license text and Section 15 attribution.</p><p>For Gold &amp; Glory&trade; and FG&amp;G&trade; are trademarks of Justen Brown. This work is not affiliated with Justen Brown.</p><p>Private module. Not distributed via the Foundry package registry.</p>",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "authors": [
     {
       "name": "Nick",
@@ -48,7 +48,7 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "banner": "modules/dakks-2e/ui/banners/classes.webp"
+      "banner": "modules/dakks-ultimate-tokens/art/banners/classes.webp"
     },
     {
       "name": "skills",
@@ -60,7 +60,7 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "banner": "modules/dakks-2e/ui/banners/skills.webp"
+      "banner": "modules/dakks-ultimate-tokens/art/banners/skills.webp"
     },
     {
       "name": "races",
@@ -72,7 +72,7 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "banner": "modules/dakks-2e/ui/banners/races.webp"
+      "banner": "modules/dakks-ultimate-tokens/art/banners/races.webp"
     },
     {
       "name": "proficiencies-weapon",
@@ -84,7 +84,7 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "banner": "modules/dakks-2e/ui/banners/proficiencies-weapon.webp"
+      "banner": "modules/dakks-ultimate-tokens/art/banners/skills.webp"
     },
     {
       "name": "proficiencies-nonweapon",
@@ -96,7 +96,7 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "banner": "modules/dakks-2e/ui/banners/proficiencies-nonweapon.webp"
+      "banner": "modules/dakks-ultimate-tokens/art/banners/skills.webp"
     },
     {
       "name": "spells-arcane",
@@ -108,7 +108,7 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "banner": "modules/dakks-2e/ui/banners/spells-arcane.webp"
+      "banner": "modules/dakks-ultimate-tokens/art/banners/spells.webp"
     },
     {
       "name": "spells-divine",
@@ -120,7 +120,7 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "banner": "modules/dakks-2e/ui/banners/spells-divine.webp"
+      "banner": "modules/dakks-ultimate-tokens/art/banners/spells.webp"
     },
     {
       "name": "equipment",
@@ -132,7 +132,7 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "banner": "modules/dakks-2e/ui/banners/equipment.webp"
+      "banner": "modules/dakks-ultimate-tokens/art/banners/items.webp"
     },
     {
       "name": "weapons",
@@ -144,7 +144,7 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "banner": "modules/dakks-2e/ui/banners/weapons.webp"
+      "banner": "modules/dakks-ultimate-tokens/art/banners/weapons.webp"
     },
     {
       "name": "armor",
@@ -156,7 +156,7 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "banner": "modules/dakks-2e/ui/banners/armor.webp"
+      "banner": "modules/dakks-ultimate-tokens/art/banners/armor.webp"
     },
     {
       "name": "creatures",
@@ -168,7 +168,7 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "banner": "modules/dakks-2e/ui/banners/creatures.webp"
+      "banner": "modules/dakks-ultimate-tokens/art/banners/creatures.webp"
     },
     {
       "name": "tables",
@@ -180,7 +180,7 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "banner": "modules/dakks-2e/ui/banners/tables.webp"
+      "banner": "modules/dakks-ultimate-tokens/art/banners/tables.webp"
     },
     {
       "name": "documentation",
@@ -192,7 +192,7 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "banner": "modules/dakks-2e/ui/banners/documentation.webp"
+      "banner": "modules/dakks-ultimate-tokens/art/banners/documentation.webp"
     }
   ],
   "packFolders": [
@@ -262,5 +262,16 @@
   "url": "https://github.com/TheDakk/Dakks-2E-Core",
   "license": "LICENSE.md",
   "manifest": "https://github.com/TheDakk/Dakks-2E-Core/releases/latest/download/module.json",
-  "download": "https://github.com/TheDakk/Dakks-2E-Core/releases/download/v0.1.4/dakks-2e-0.1.4.zip"
+  "download": "https://github.com/TheDakk/Dakks-2E-Core/releases/download/v0.1.5/dakks-2e-0.1.5.zip",
+  "media": [
+    {
+      "type": "cover",
+      "url": "https://raw.githubusercontent.com/TheDakk/Dakks-Ultimate-Tokens/main/art/cover.webp",
+      "caption": "Dakk's D&D 2e Core"
+    },
+    {
+      "type": "icon",
+      "url": "https://raw.githubusercontent.com/TheDakk/Dakks-Ultimate-Tokens/main/art/icon.png"
+    }
+  ]
 }

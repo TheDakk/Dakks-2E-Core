@@ -193,54 +193,22 @@
           "name": "D&D 2e",
           "sorting": "m",
           "color": "#3b5b8a",
-          "packs": [],
-          "folders": [
-            {
-              "name": "Characters",
-              "sorting": "m",
-              "color": "#3b5b8a",
-              "packs": [
-                "classes",
-                "races",
-                "skills",
-                "proficiencies-weapon",
-                "proficiencies-nonweapon"
-              ],
-              "folders": []
-            },
-            {
-              "name": "Items & Spells",
-              "sorting": "m",
-              "color": "#3b5b8a",
-              "packs": [
-                "spells-arcane",
-                "spells-divine",
-                "equipment",
-                "weapons",
-                "armor"
-              ],
-              "folders": []
-            },
-            {
-              "name": "Creatures",
-              "sorting": "m",
-              "color": "#3b5b8a",
-              "packs": [
-                "creatures"
-              ],
-              "folders": []
-            },
-            {
-              "name": "Rules",
-              "sorting": "m",
-              "color": "#3b5b8a",
-              "packs": [
-                "tables",
-                "documentation"
-              ],
-              "folders": []
-            }
-          ]
+          "packs": [
+            "creatures",
+            "classes",
+            "races",
+            "skills",
+            "proficiencies-weapon",
+            "proficiencies-nonweapon",
+            "spells-arcane",
+            "spells-divine",
+            "equipment",
+            "weapons",
+            "armor",
+            "tables",
+            "documentation"
+          ],
+          "folders": []
         }
       ]
     }

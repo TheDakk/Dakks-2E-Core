@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.0 (2026-09-29)
+
+Both sexes on the table. Where Dakk's Ultimate Tokens paints a woman beside a creature, the Creatures pack now holds her as her own creature with the same stats, "Ogre (female)" beside "Ogre", each with its own portrait and token, in the same folder, so the GM places the one they want. 27 new actors: brownie, bugbear, centaur, cloud giant, djinni, efreeti, fire giant, frost giant, gnoll, goblin, half-ogre, half-orc, hobgoblin, kobold, lizard man, ogre, orc, pixie, rakshasa, sprite, titan, triton, troll, vampire, werebear, wereboar and wolfwere. Race and class items keep their original painting. Nothing else changes. Requires Dakk's Ultimate Tokens 3.5.0 or later (the women's paintings).
+
 ## 1.0.0 (2026-09-07)
 
 First release. D&D 2nd Edition core rules for the Advanced Roleplaying System (ARS): classes, races, proficiencies, spells, creatures, equipment, treasure and tables, converted from For Gold & Glory (Open Game Content under the OGL v1.0a; see LICENSE.md), every image drawn from Dakk's Ultimate Tokens. Requires Foundry 14, ARS 2026.08.25 or later and the Dakk's Ultimate Tokens module 2.0.0 or later, which Foundry offers to install alongside; set the ARS variant to 2 in the world. For Gold & Glory and FG&G are trademarks of Justen Brown; this work is not affiliated with Justen Brown. Compendium: every pack sits under "Dakk's Ultimate Tokens" > "D&D 2e" in the sidebar (Creatures at the top, then Classes & Races, Skills & Proficiencies, Spells, Items), each pack opens to groups (creatures by type, spells by level, gear, weapons and armour by kind, tables by book section) and carries a banner painted in Dakk's hand, shared with the token module (2.3.3 or later). The module also carries a cover and icon for Foundry's setup and install screens. Version numbering begins at 1.0.0; the same-day 0.1.x builds were pre-release iterations of this release.

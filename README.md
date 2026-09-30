@@ -9,11 +9,11 @@ interpretation of 2e. Every image points at Dakk's Ultimate Tokens.
 
 ## What you need
 
-1. Foundry VTT 14 (the ARS version this content is built against requires it).
-2. The **Advanced Roleplaying System (ARS)** game system, version 2026.08.25 or later:
+1. Foundry VTT 14 or later (verified on 14).
+2. The **Advanced Roleplaying System (ARS)** game system, version 2026.08.25 or later (verified on 2026.08.25):
    `https://github.com/adndmike/advanced-roleplay-system/releases/latest/download/system.json`
-3. The **Dakk's Ultimate Tokens** art module, 3.5.0 or later (the images live there; this
-   module points at them). Foundry offers to install it when you install this one:
+3. The **Dakk's Ultimate Tokens** art module, 3.5.0 or later (the images live there; this module
+   points at them). Foundry offers to install it with this one:
    `https://github.com/TheDakk/Dakks-Ultimate-Tokens/releases/latest/download/module.json`
 4. In the world, set the ARS variant to **2** (2nd Edition). Saving throws, THAC0 and thief
    skills are keyed by it.

@@ -22,6 +22,18 @@ interpretation of 2e. Every image points at Dakk's Ultimate Tokens.
 
 In Foundry, **Add-on Modules → Install Module**, paste
 `https://github.com/TheDakk/Dakks-2E-Core/releases/latest/download/module.json`.
+Or download the release zip and unpack it into `Data/modules/dakks-2e`; with the GitHub CLI,
+in PowerShell, Foundry closed:
+
+```powershell
+$zip = "$env:TEMP\dakks-2e.zip"
+gh release download -R TheDakk/Dakks-2E-Core -p "dakks-2e-*.zip" -O $zip --clobber
+Expand-Archive $zip "$env:LOCALAPPDATA\FoundryVTT\Data\modules\dakks-2e" -Force
+```
+
+Enable it in your world; Foundry offers to enable the art module with it. If the module unchecks
+itself when you enable it, Foundry has found a dependency below its minimum: check that
+ARS is 2026.08.25 or later and the art module 3.5.0 or later, then try again.
 
 ## What is inside
 

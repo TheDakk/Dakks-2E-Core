@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.0 (2026-09-29)
+
+Every creature's starting disposition reviewed against its nature, the same review the 5e modules had: 30 creatures that would not attack on sight now start neutral (the metallic dragons, couatl, unicorn, treant, dryad, the playable races and other good or peaceful creatures); each female twin starts as her base does. Five creature descriptions corrected: the Basilisk, Black Pudding, Brown Pudding, Hydra and Cryohydra had the end of a different entry on the same page of the book bled into their opening; each now begins with its own text. The description and licence no longer speak of how the module is distributed. Requires Dakk's Ultimate Tokens 3.5.0 or later.
+
 ## 1.1.0 (2026-09-29)
 
 Both sexes on the table. Where Dakk's Ultimate Tokens paints a woman beside a creature, the Creatures pack now holds her as her own creature with the same stats, "Ogre (female)" beside "Ogre", each with its own portrait and token, in the same folder, so the GM places the one they want. 27 new actors: brownie, bugbear, centaur, cloud giant, djinni, efreeti, fire giant, frost giant, gnoll, goblin, half-ogre, half-orc, hobgoblin, kobold, lizard man, ogre, orc, pixie, rakshasa, sprite, titan, triton, troll, vampire, werebear, wereboar and wolfwere. Race and class items keep their original painting. Nothing else changes. Requires Dakk's Ultimate Tokens 3.5.0 or later (the women's paintings).

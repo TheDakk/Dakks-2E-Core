@@ -1,8 +1,5 @@
 # dakks-2e — licensing
 
-Private module for a home game. **Not distributed** via the Foundry package registry or
-otherwise published.
-
 ## Trademark notice
 
 > For Gold & Glory™ and FG&G™ are trademarks of Justen Brown.

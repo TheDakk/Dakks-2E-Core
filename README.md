@@ -12,7 +12,9 @@ interpretation of 2e. Every image points at Dakk's Ultimate Tokens.
 1. Foundry VTT 14 (the ARS version this content is built against requires it).
 2. The **Advanced Roleplaying System (ARS)** game system, version 2026.08.25 or later:
    `https://github.com/adndmike/advanced-roleplay-system/releases/latest/download/system.json`
-3. The **Dakk's Ultimate Tokens** art module; Foundry offers to install it with this one.
+3. The **Dakk's Ultimate Tokens** art module, 3.5.0 or later (the images live there; this
+   module points at them). Foundry offers to install it when you install this one:
+   `https://github.com/TheDakk/Dakks-Ultimate-Tokens/releases/latest/download/module.json`
 4. In the world, set the ARS variant to **2** (2nd Edition). Saving throws, THAC0 and thief
    skills are keyed by it.
 
@@ -23,21 +25,26 @@ In Foundry, **Add-on Modules → Install Module**, paste
 
 ## What is inside
 
-| Compendium | Type |
-|---|---|
-| Classes | Item |
-| Skills | Item |
-| Races | Item |
-| Weapon Proficiencies | Item |
-| Nonweapon Proficiencies | Item |
-| Wizard Spells | Item |
-| Priest Spells | Item |
-| Equipment | Item |
-| Weapons | Item |
-| Armor | Item |
-| Creatures | Actor |
-| Tables | RollTable |
-| Documentation | JournalEntry |
+| Compendium | Type | Documents |
+|---|---|---:|
+| Classes | Item | 16 |
+| Skills | Item | 13 |
+| Races | Item | 6 |
+| Weapon Proficiencies | Item | 110 |
+| Nonweapon Proficiencies | Item | 60 |
+| Wizard Spells | Item | 312 |
+| Priest Spells | Item | 172 |
+| Equipment | Item | 225 |
+| Weapons | Item | 75 |
+| Armor | Item | 21 |
+| Creatures | Actor | 102 + 27 female/male twins |
+| Tables | RollTable | 89 |
+| Documentation | JournalEntry | 1 |
+
+Where Dakk's Ultimate Tokens paints a woman beside a creature, "Ogre (female)" sits beside
+"Ogre" with the same stats and her own portrait and token, so you place the one you want. Every
+creature's starting disposition was reviewed against its nature: harmless animals, townsfolk and
+good creatures that would not attack on sight start neutral.
 
 ## Licence
 
